@@ -14,6 +14,3 @@ To run the experiments, you just need to run the source files in the following o
 
 The default is an online analysis, so the experiments may take a while to run.
 
-### Contact
-
-Feel free to get in touch with me about any issue. vitor.cerqueira@fe.up.pt

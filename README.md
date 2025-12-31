@@ -1,7 +1,9 @@
 
 ## Machine Learning vs Statistical Methods for Time Series Forecasting: Size Matters
 
-This repository contains the code to reproduce the experiments reported in the paper entitled "Machine Learning vs Statistical Methods for Time Series Forecasting: Size Matters", by V. Cerqueira, L.Torgo, and C.Soares. 
+This repository contains the code to reproduce the experiments reported in the paper:
+
+`Cerqueira, V., Torgo, L., & Soares, C. (2022). A case study comparing machine learning with statistical methods for time series forecasting: size matters. Journal of Intelligent Information Systems, 59(2), 415-433.`
 
 
 ### Running the experiments
